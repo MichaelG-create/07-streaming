@@ -224,10 +224,11 @@ total `tip_amount` per hour (across all locations).
 Which hour had the highest total tip amount?
 
 - 2025-10-01 18:00:00
-- 2025-10-16 18:00:00
+- X 2025-10-16 18:00:00
 - 2025-10-22 08:00:00
 - 2025-10-30 16:00:00
 
+![Q6]({EE059856-863E-4A70-BC30-E2850F438937}.png)
 
 ## Submitting the solutions
 
