@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM processed_events WHERE trip_distance > 5;
